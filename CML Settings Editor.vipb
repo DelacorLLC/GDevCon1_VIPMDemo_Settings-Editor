@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-28 15:43:27" Modified_Date="2019-02-28 18:14:27" Creator="Fabiola" Comments="" ID="291537db9282f855c7916afb8217414e">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-02-28 15:43:27" Modified_Date="2020-01-27 20:21:44" Creator="Fabiola" Comments="" ID="d7a4168ef11f42d57dd2b6671b7ce453">
   <Library_General_Settings>
     <Package_File_Name>Delacor_lib_CML_Settings_Editor</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\..\..\Packages</Library_Output_Folder>
@@ -37,8 +37,7 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>Code creates the Settings.xml file with default values if one does not exist
-changed location in palettes to Delacor-GDevCon1-Demo</Release_Notes>
+      <Release_Notes>Validated module to match DQMH 4.2, main change was adding the new broadcast icon.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -356,7 +355,7 @@ changed location in palettes to Delacor-GDevCon1-Demo</Release_Notes>
         <Path>Test Settings Editor API.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5B8E7A247A6673A26F8AAAD65BCF0C78</GUID>
+      <GUID>AA078A99ABD95634C21A55C9D4E48938</GUID>
     </Functions_Palette_Data>
     <Controls_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
@@ -573,7 +572,7 @@ changed location in palettes to Delacor-GDevCon1-Demo</Release_Notes>
         <Path>Update Application Settings Argument--cluster.ctl</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ED68F9E1FF0B3108F3892DF26A4020E0</GUID>
+      <GUID>BCBBE54974C67360BD6B077480F8784C</GUID>
     </Controls_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
